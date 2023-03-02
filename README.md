@@ -15,7 +15,7 @@
 
 + Researching and testing mobile game “Hemp Inc.”
 
-+ Documentation: [https://docs.google.com/spreadsheets/d/1MtUQzMtqqjh-GFWFW62VV6HL4iI0A8a1oJBhtISHLjA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1MtUQzMtqqjh-GFWFW62VV6HL4iI0A8a1oJBhtISHLjA/edit?usp=sharing)
++ Documentation: [https://github.com/Pylypak/Testing_mobile_game.git](https://github.com/Pylypak/Testing_mobile_game.git)
 
 **Premium Parts-96, LLC**
 
