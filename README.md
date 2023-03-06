@@ -21,10 +21,10 @@
 
 + _April 2021 - June 2021_
 
-+ Providing website testing.
++ Providing WEB testing.
 Creating test documentation like bug reports, check lists, traceability matrix.
 Working with JIRA, TestRail.
-Regression and smoke testing
+Regression and smoke, functional testing.
 
 ____
 
